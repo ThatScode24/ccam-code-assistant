@@ -1,0 +1,15 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+
+# data: the CCAM files are downloaded by the user; generated data is rebuilt by the pipeline
+data/raw/
+data/processed/
+data/eval/gold.csv
+
+# model weights (~1 GB each)
+models/
+
+# run logs
+logs_*.txt

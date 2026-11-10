@@ -1,0 +1,33 @@
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights:  25%|██▍       | 49/199 [00:00<00:00, 481.01it/s]Loading weights:  49%|████▉     | 98/199 [00:00<00:00, 418.47it/s]Loading weights:  82%|████████▏ | 164/199 [00:00<00:00, 497.89it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 471.58it/s]
+query                                                   bm25        bm25+ab   e5-base-ccam e5-base-ccam+a
+PTH G voie postérieure pour coxarthrose                    -              1              -              3
+PTG D sur gonarthrose                                      -              1              -              2
+pose de sonde JJ à droite sous AG                          -              1              -              -
+exerese naevus joue 1cm suture simple                      -              -              6              6
+ablation d'un kyste sous-cutané du dos                     -              -              3              3
+kyste sébacé du dos 2 cm                                   -              -              5              5
+exérèse lipome épaule 5 cm                                 2              2              -              -
+chole coelio                                               -              1              2              2
+coelio pour appendicite aiguë                              -              -              1              1
+écho abdo                                                  -              1              1              1
+FOGD                                                       -              1              6              1
+RTUP                                                       -              1              -              1
+TAVI par voie fémorale                                     -              1              -              1
+cataracte OD phaco + implant                               -              1              1              1
+IVG par aspiration                                         -              1              1              1
+pose DIU                                                   -              1              1              1
+coloscopie totale                                          1              1              1              1
+ETT                                                        -              1              -              1
+IRM cérébrale sans injection                               7              6              1              1
+scanner abdomino-pelvien injecté                           -              -              1              1
+hernie inguinale G sous coelio avec plaque                10              -              -              -
+canal carpien                                              1              1              2              2
+ménisectomie interne arthroscopique genou                  3              3              1              1
+ponction lombaire                                          1              1              1              1
+PL                                                         -              1              1              1
+ECG                                                        3              3              9              6
+Holter ECG 24h                                             7              1              2              2
+pose de port-à-cath                                        -              9              -             10
+fibro bronchique avec LBA                                  6              1              1              1
+BOM                                                        -              1              -              2
+top-5 hits / 30                                            6             22             17             24
